@@ -6,6 +6,8 @@ The Spectra HTML template is an elegant, minimalist, and fully responsive design
 
 This template is built using Bootstrap 5, a powerful front-end framework for faster and easier web development. It includes modern features and responsive design to help you create beautiful web pages.
 
+> [Click here to view demo](https://html-spectra-full.vercel.app/)
+
 ![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/spectra.png)
 
 > **Important:** You are currently viewing only the starter template, which includes only the homepage. The full template is available for free to users who are registered on my website and signed up to my mailing list.
